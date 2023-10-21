@@ -103,7 +103,7 @@ const Code = () => {
         />
 
         <div className="footer">
-          <p>Its a simple code editor where you can type anything and perform various task using button like copy, save, remove, lock screen </p>
+          <p>Its a simple code editor where you can type anything and perform various task using button like copy, save, remove, lock screen. </p>
         </div>
         
       </div>
